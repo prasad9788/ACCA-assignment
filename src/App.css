@@ -1,0 +1,44 @@
+/* src/App.css */
+body {
+  background-color: #1c1c1e;
+  color: white;
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+  color: #ffffff;
+}
+
+.become-acca {
+  background-color: #282c34;
+}
+
+.why-choose-us {
+  background-color: #1c1c1e;
+}
+
+.what-will-you-learn {
+  background-color: #282c34;
+}
+
+.text-center {
+  text: imports up-to-date and relevant;
+}
+.my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+footer {
+  background-color: #1c1c1e;
+  padding: 1rem 0;
+}
+
+footer p {
+  margin: 0;
+}
